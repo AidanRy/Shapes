@@ -1,6 +1,6 @@
 package ie.atu.week5;
 
-public class Rectàngle {
+public class Rectangle {
     private double length;
     private double width;
 
