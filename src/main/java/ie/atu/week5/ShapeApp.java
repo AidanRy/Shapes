@@ -31,5 +31,7 @@ public class ShapeApp {
         double width2 = input.nextDouble();
         shapeRect2.setWidth(width2);
         System.out.println("you entered :" + shapeRect2.getWidth());
+
+
     }
 }
