@@ -32,6 +32,8 @@ public class ShapeApp {
         shapeRect2.setWidth(width2);
         System.out.println("you entered :" + shapeRect2.getWidth());
 
-
+        Rectangle shapeRect3 = new Rectangle(23,64);
+        System.out.println("for width you entered :" + shapeRect3.getWidth());
+        System.out.println("for length you entered :" + shapeRect3.getLength());
     }
 }
